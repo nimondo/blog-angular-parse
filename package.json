@@ -20,7 +20,7 @@
     "@angular/platform-browser-dynamic": "~8.0.0",
     "@angular/router": "~8.0.0",
     "bootstrap": "^3.3.7",
-    "parse": "^2.5.1",
+    "parse": "^2.10.0",
     "rxjs": "~6.4.0",
     "rxjs-compat": "^6.5.2",
     "tslib": "^1.9.0",
